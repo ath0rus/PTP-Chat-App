@@ -11,3 +11,5 @@ While one instance can only be in one chat at a time, you can run more instances
 - [ ] Build the ui
 - [ ] setup code to be able to be server and client until connection starts
 - [ ] setup ip address retrival or address system
+- [ ] setup automatic port switching and detection (detect if a port is being used and hop to another ip)
+- [ ] state to the user what ip they can be contacted on
