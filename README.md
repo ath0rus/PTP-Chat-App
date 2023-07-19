@@ -7,6 +7,7 @@ While one instance can only be in one chat at a time, you can run more instances
 
 
 ### To Do
+- [ ] Setup UPNP (or simialr) to allow the app to tell the router to send stuff to it
 - [ ] Create Pub/Priv Key generator
 - [ ] Build the ui
 - [ ] setup code to be able to be server and client until connection starts
