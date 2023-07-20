@@ -7,7 +7,7 @@ While one instance can only be in one chat at a time, you can run more instances
 
 
 ### To Do
-- [ ] Setup UPNP (or simialr) to allow the app to tell the router to send stuff to it
+- [ ] ~~Setup UPNP (or simialr) to allow the app to tell the router to send stuff to it~~ Nat Traversal will be used instead as it seems to be more simple to work with
 - [ ] Create Pub/Priv Key generator
 - [ ] Build the ui
 - [ ] setup code to be able to be server and client until connection starts
