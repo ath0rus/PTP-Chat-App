@@ -7,7 +7,7 @@ While one instance can only be in one chat at a time, you can run more instances
 
 
 ### To Do
-- [ ] Work out how to communicate over the web, possibly use [aiortc](https://aiortc.readthedocs.io/en/latest/), but would like to go serverless (as is the aim)
+- [x] ~~Work out how to communicate over the web,~~ check out [ProgressLog.md] (The Progress Log) for more info
 - [ ] Create Pub/Priv Key generator
 - [ ] Build the ui
 - [ ] setup code to be able to be server and client until connection starts
