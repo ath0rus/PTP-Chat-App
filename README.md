@@ -14,3 +14,7 @@ While one instance can only be in one chat at a time, you can run more instances
 - [ ] setup ip address retrival or address system
 - [ ] setup automatic port switching and detection (detect if a port is being used and hop to another ip)
 - [ ] state to the user what ip they can be contacted on
+
+## Disclaimer
+Copyright 2023 ath0rus media. Licensed under Apache 2.0.
+Use at your own risk. Not liable for misuse. Acknowledge/compensate if of beneficial use.
